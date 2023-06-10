@@ -1,16 +1,5 @@
-# flutter_state_management_no_packages
+# Flutter State Management WITHOUT external packages (ChangeNotifier, InheritedWidget and more)
 
-A new Flutter project.
+In this Flutter tutorial we dive into the world of State Management in Flutter, but this time I'll show you how it's possible to apply state management in Flutter without the need for external packages. Just using Flutter in-built classes like ChangeNotifier, InheritedWidget, and ListenableBuilder we can create a complete app that has a clear separation of concerns for widget visualization and classes that manage their state.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Whatch the related video on [YouTube](https://youtu.be/VPRzLMyI1HY) or [Odysee](https://odysee.com/@svprdga:d/flutter-state-management-without-external-packages-changenotifier-inheritedwidget-and-more:3).
